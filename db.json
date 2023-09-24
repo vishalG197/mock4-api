@@ -6,7 +6,7 @@
     "name": "Item 1",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 100.0
 },
 {
@@ -15,7 +15,7 @@
     "name": "Item 2",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 110.0
 },
 {
@@ -24,7 +24,7 @@
     "name": "Item 3",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 105.0
 },
 {
@@ -33,7 +33,7 @@
     "name": "Item 4",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 95.0
 },
 {
@@ -42,7 +42,7 @@
     "name": "Item 5",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 120.0
 },
 {
@@ -51,7 +51,7 @@
     "name": "Item 6",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 99.0
 },
 {
@@ -60,7 +60,7 @@
     "name": "Item 7",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "trousers",
     "price": 115.0
 },
 {
@@ -68,8 +68,8 @@
     "img": "image.png",
     "name": "Item 8",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 98.0
 },
 {
@@ -77,8 +77,8 @@
     "img": "image.png",
     "name": "Item 9",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 105.0
 },
 {
@@ -86,8 +86,8 @@
     "img": "image.png",
     "name": "Item 10",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 125.0
 },
 {
@@ -95,8 +95,8 @@
     "img": "image.png",
     "name": "Item 11",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 90.0
 },
 {
@@ -104,8 +104,8 @@
     "img": "image.png",
     "name": "Item 12",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 110.0
 },
 {
@@ -113,8 +113,8 @@
     "img": "image.png",
     "name": "Item 13",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 98.0
 },
 {
@@ -122,8 +122,8 @@
     "img": "image.png",
     "name": "Item 14",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 100.0
 },
 {
@@ -131,8 +131,8 @@
     "img": "image.png",
     "name": "Item 15",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 105.0
 },
 {
@@ -140,8 +140,8 @@
     "img": "image.png",
     "name": "Item 16",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 115.0
 },
 {
@@ -149,8 +149,8 @@
     "img": "image.png",
     "name": "Item 17",
     "description": "rainy season product",
-    "gender": "male",
-    "category": "Trousers",
+    "gender": "female",
+    "category": "lehenga",
     "price": 95.0
 },
 {
@@ -159,7 +159,7 @@
     "name": "Item 18",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "shirts",
     "price": 120.0
 },
 {
@@ -168,7 +168,7 @@
     "name": "Item 19",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "shirts",
     "price": 99.0
 },
 {
@@ -177,7 +177,7 @@
     "name": "Item 20",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "shirts",
     "price": 105.0
 },
 {
@@ -186,7 +186,7 @@
     "name": "Item 21",
     "description": "rainy season product",
     "gender": "male",
-    "category": "Trousers",
+    "category": "shirts",
     "price": 125.0
 },
 {

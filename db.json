@@ -1,13 +1,227 @@
-{
-  "products": [
-    { "id": 1, 
-    "img":"",
-    "name": "Item 1", 
-    "description": "rany season product",
-    "gender":"male",
-    "category":"Trousers",
-    "price": 100.0 
+[
+  {
+      "id": 1,
+      "img": "image.png",
+      "name": "Item 1",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 100.0
+  },
+  {
+      "id": 2,
+      "img": "image.png",
+      "name": "Item 2",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 110.0
+  },
+  {
+      "id": 3,
+      "img": "image.png",
+      "name": "Item 3",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 105.0
+  },
+  {
+      "id": 4,
+      "img": "image.png",
+      "name": "Item 4",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 95.0
+  },
+  {
+      "id": 5,
+      "img": "image.png",
+      "name": "Item 5",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 120.0
+  },
+  {
+      "id": 6,
+      "img": "image.png",
+      "name": "Item 6",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 99.0
+  },
+  {
+      "id": 7,
+      "img": "image.png",
+      "name": "Item 7",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 115.0
+  },
+  {
+      "id": 8,
+      "img": "image.png",
+      "name": "Item 8",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 98.0
+  },
+  {
+      "id": 9,
+      "img": "image.png",
+      "name": "Item 9",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 105.0
+  },
+  {
+      "id": 10,
+      "img": "image.png",
+      "name": "Item 10",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 125.0
+  },
+  {
+      "id": 11,
+      "img": "image.png",
+      "name": "Item 11",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 90.0
+  },
+  {
+      "id": 12,
+      "img": "image.png",
+      "name": "Item 12",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 110.0
+  },
+  {
+      "id": 13,
+      "img": "image.png",
+      "name": "Item 13",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 98.0
+  },
+  {
+      "id": 14,
+      "img": "image.png",
+      "name": "Item 14",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 100.0
+  },
+  {
+      "id": 15,
+      "img": "image.png",
+      "name": "Item 15",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 105.0
+  },
+  {
+      "id": 16,
+      "img": "image.png",
+      "name": "Item 16",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 115.0
+  },
+  {
+      "id": 17,
+      "img": "image.png",
+      "name": "Item 17",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 95.0
+  },
+  {
+      "id": 18,
+      "img": "image.png",
+      "name": "Item 18",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 120.0
+  },
+  {
+      "id": 19,
+      "img": "image.png",
+      "name": "Item 19",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 99.0
+  },
+  {
+      "id": 20,
+      "img": "image.png",
+      "name": "Item 20",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 105.0
+  },
+  {
+      "id": 21,
+      "img": "image.png",
+      "name": "Item 21",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 125.0
+  },
+  {
+      "id": 22,
+      "img": "image.png",
+      "name": "Item 22",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 90.0
+  },
+  {
+      "id": 23,
+      "img": "image.png",
+      "name": "Item 23",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 110.0
+  },
+  {
+      "id": 24,
+      "img": "image.png",
+      "name": "Item 24",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 98.0
+  },
+  {
+      "id": 25,
+      "img": "image.png",
+      "name": "Item 25",
+      "description": "rainy season product",
+      "gender": "male",
+      "category": "Trousers",
+      "price": 100.0
   }
-   
-  ]
-}
+]
